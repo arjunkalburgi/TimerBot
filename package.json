@@ -1,0 +1,21 @@
+{
+  "name": "timerbot",
+  "version": "0.1.0",
+  "description": "FBMessenger Bot to send messages after a set time. ",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "npm": "^3.9.2",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "run"
+  },
+  "keywords": [
+    "Messenger"
+  ],
+  "author": "Arjun Kalburgi",
+  "license": "ISC"
+}
